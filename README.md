@@ -1,6 +1,6 @@
 # homework-eight
 
-Homework Seven assignment for my N215 class
+Homework Eight assignment for my N215 class
 
 # Purpose
 
